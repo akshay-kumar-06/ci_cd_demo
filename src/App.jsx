@@ -4,7 +4,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
 
-function App() {
+function App( {
   return (
     <div>
       <h1>CI/CD Demo 🚀</h1>

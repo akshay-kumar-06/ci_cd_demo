@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <h1>CI/CD Demo 🚀</h1>
-      <p>Hello, Akshay!</p>
+      <p>Hello, World! I am doing this with React and Vite. and also i want to showcase the power of CI/CD.</p>
       <p>Version 2.0</p>
     </div>
   );
